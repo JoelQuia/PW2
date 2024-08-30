@@ -1,0 +1,14 @@
+{
+    "name": "admin/projeto-com-composer",
+    "autoload": {
+        "psr-4": {
+            "Admin\\ProjetoComComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joel"
+        }
+    ],
+    "require": {}
+}
